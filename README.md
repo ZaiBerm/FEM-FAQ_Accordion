@@ -30,7 +30,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://github.com/ZaiBerm/FEM-FAQ_Accordion))
 - Live Site URL: [Add live site URL here](https://ZaiBerm.github.io/FEM-FAQ_Accordion)
 
 ## My process
