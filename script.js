@@ -48,13 +48,11 @@ document.addEventListener('DOMContentLoaded', function () {
   
 
   firstButton.addEventListener('click', () => {
-    console.log('Question 1 clicked');
     showHideContent('desc1');
     changeButton('btn1');
   });
 
   firstQuestion.addEventListener('click', () => {
-    console.log('Question 1 clicked');
     showHideContent('desc1');
     changeButton('btn1');
   });
